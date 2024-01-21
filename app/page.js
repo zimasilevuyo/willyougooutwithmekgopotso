@@ -33,7 +33,7 @@ export default function page() {
           fontSize: "25px"
         }}
       >
-        Will you be my Valentine Kgopotso ?
+        Will you be my Valentine <br/> Kgopotso ?
       </div>
       <div className="btns">
         <Link className="yes" href="/yay">
